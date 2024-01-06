@@ -126,7 +126,7 @@ body {
 ```
 
 ## Day 20 Challenge: CSS Animations
-Celebrate the 20th day of our 100 Days of Web Development Challenge by mastering CSS animations! Create visually stunning web elements and enhance your web design skills.
+Celebrate the 20th day of our 100 Days of Web Development Challenge by mastering CSS animations! Create visually stunning web elements and enhance your web design skills, you'd need it for next week's projects.
 
 ## Reference Materials
 Explore these resources to keep yourself engaged over the weekend:
