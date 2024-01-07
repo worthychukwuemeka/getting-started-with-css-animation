@@ -1,7 +1,7 @@
 # README Cheat Sheet: CSS Animation Tricks
 
 ## Introduction
-Welcome to the 20th day of our 100 Days of Web Development Challenge! Today, we're diving into the world of CSS animations to create exciting and dynamic web experiences.
+Welcome to the 20th and 21st days of our 100 Days of Web Development Challenge! Today, we're diving into the world of CSS animations to create exciting and dynamic web experiences.
 
 ### 1. Keyframes Magic
 Define keyframes for smooth animations. Use percentages to control the animation progress.
@@ -125,7 +125,7 @@ body {
 }
 ```
 
-## Day 20 Challenge: CSS Animations
+## Day 20 & 21 Challenge: Understading CSS Animations
 Celebrate the 20th day of our 100 Days of Web Development Challenge by mastering CSS animations! Create visually stunning web elements and enhance your web design skills, you'd need it for next week's projects.
 
 ## Reference Materials
